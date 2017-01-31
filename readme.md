@@ -1,3 +1,3 @@
 # Private Messaging System
 
-Written in Laravel Project (v5.4.*)
+Written in Laravel (v5.4.*)
